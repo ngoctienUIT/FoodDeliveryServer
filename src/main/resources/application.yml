@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ngoctienTNT:TNT1122002@fooddelivery.twz0ko4.mongodb.net/?retryWrites=true&w=majority
+      database: food_delivery
+      auto-index-creation: true
